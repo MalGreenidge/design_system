@@ -1,0 +1,21 @@
+#colors, #fonts, #text-styles {
+    border: solid black 2px;   
+}
+
+
+
+.navy {
+    background-color: rgb(28, 12, 91)
+}
+
+.purple {
+    background-color: rgb(61, 44, 141);
+}
+
+.night {
+    background-color: rgb(145, 107, 191);
+}
+
+.warm {
+    background-color: rgb(201, 150, 204);
+}
