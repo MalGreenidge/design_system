@@ -62,3 +62,20 @@ body {
     font-family: 'Ubuntu', sans-serif;
 
 }
+
+.font-label {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.normal {
+    font-style: normal;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
