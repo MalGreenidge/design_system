@@ -1,8 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,300&family=Poppins:ital,wght@0,400;0,700;1,300&family=Roboto:ital,wght@0,400;0,700;1,300&family=Ubuntu:ital,wght@0,400;0,700;1,300&display=swap');
+
+/* Font Famillies
+
+font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+
+*/
+
+
+
+body {
+    font-family: 'Lato', sans-serif;
+}
+
 #colors, #fonts, #text-styles {
     border: solid black 2px;   
 }
 
-
+/* Colors Section Styling */
 
 .navy {
     background-color: rgb(28, 12, 91)
@@ -18,4 +35,21 @@
 
 .warm {
     background-color: rgb(201, 150, 204);
+}
+
+
+/* Fonts Section Styling */
+
+.roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.poppins {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.ubuntu {
+    font-family: 'Ubuntu', sans-serif;
+
 }
