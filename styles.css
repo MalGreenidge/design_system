@@ -9,20 +9,25 @@ font-family: 'Ubuntu', sans-serif;
 
 */
 
-
-
 body {
     font-family: 'Lato', sans-serif;
 }
 
 #colors, #fonts, #text-styles {
-    border: solid black 2px;   
+    border: solid black 2px;
+    margin: 20px;
+    display: grid; 
 }
 
 /* Colors Section Styling */
 
+#colors {
+    text-align: center;
+}
+
 .navy {
-    background-color: rgb(28, 12, 91)
+    background-color: rgb(28, 12, 91);
+
 }
 
 .purple {
@@ -35,6 +40,10 @@ body {
 
 .warm {
     background-color: rgb(201, 150, 204);
+}
+
+.navy, .purple, .night, .warm {
+    color: white;
 }
 
 
